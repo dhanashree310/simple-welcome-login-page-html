@@ -1,4 +1,4 @@
-# simple-welcome-login-page-html-css
+# simple-welcome-login-page-html
 
 # E-Diary Project
 
